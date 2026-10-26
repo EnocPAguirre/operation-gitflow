@@ -1,14 +1,11 @@
 # Panel de control de la misión
 
-**Nombre de la misión:** Rescate del repositorio
+Nombre de la misión: Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
+ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA
 
-**Mensaje a la tripulación:** Esperando instrucciones.
+Mensaje a la tripulación: Iniciando maniobras de reentrada. Módulo de aterrizaje en posición.
 
-## Decisiones de los equipos
-
+Decisiones de los equipos
 - Aurora: pendiente.
-- Órbita: pendiente.
-
-> Atención: ambos equipos tendrán que editar la línea `ESTADO DE LA MISIÓN` en sus ramas. ¡No se coordinen para usar el mismo texto! La diferencia creará un caso para resolver cuando se integre el segundo PR.
+- Órbita: Trayectoria de reentrada calculada y sistemas de recuperación listos.
