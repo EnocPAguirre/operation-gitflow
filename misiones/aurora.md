@@ -1,4 +1,4 @@
-# Misiones Aurora md Equipo Aurora — Tarjeta de misión
+# Equipo Aurora — Tarjeta de misión
 
 Responsabilidad: preparar la fase de lanzamiento.
 
