@@ -1,3 +1,4 @@
+cat << 'EOF' > misiones/aurora.md
 # Equipo Aurora — Tarjeta de misión
 
 Responsabilidad: preparar la fase de lanzamiento.
@@ -17,3 +18,4 @@ Responsabilidad: preparar la fase de lanzamiento.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?
+EOF
