@@ -1,12 +1,7 @@
 # Panel de control de la misión
-
 Nombre de la misión: Rescate del repositorio
-
-ESTADO DE LA MISIÓN: LANZAMIENTO Y ATERRIZAJE LISTOS
-
-Mensaje a la tripulación: Secuencia completa coordinada entre Aurora y Órbita. ¡Iniciando misión!
-
+ESTADO DE LA MISIÓN: LANZAMIENTO LISTO POR AURORA
+Mensaje a la tripulación: Todo el equipo en posiciones, inicio de secuencia de despegue inminente.
 Decisiones de los equipos
-
-- Aurora: Sistemas y combustible verificados con éxito.
-- Órbita: Zona de impacto y retrocohetes preparados.
+- Aurora: Sistemas comprobados y listos para lanzamiento.
+- Órbita: pendiente.
