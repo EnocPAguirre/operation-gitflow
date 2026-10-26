@@ -1,4 +1,4 @@
-# Órbita md Equipo Órbita — Tarjeta de misión
+#Equipo Órbita — Tarjeta de misión
 
 Responsabilidad: preparar la fase de aterrizaje.
 
