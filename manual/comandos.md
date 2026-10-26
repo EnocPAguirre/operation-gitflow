@@ -1,4 +1,5 @@
-#  Bitácora: comandos que descubrimos
+cat << 'EOF' > manual/comandos.md
+# Manual - comandos md Bitácora: comandos que descubrimos
 
 Completen esto hablando entre sí y explorando la terminal. No es un reporte para entregar.
 
@@ -15,3 +16,4 @@ Completen esto hablando entre sí y explorando la terminal. No es un reporte par
 
 ### Recordatorio
 `git pull` actualiza tu copia local; un Pull Request es la solicitud de revisión e integración de cambios en GitHub. No son lo mismo.
+EOF
