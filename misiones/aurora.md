@@ -1,19 +1,19 @@
-# Equipo Aurora — Tarjeta de misión
+# Misiones Aurora md Equipo Aurora — Tarjeta de misión
 
-**Responsabilidad:** preparar la fase de lanzamiento.
+Responsabilidad: preparar la fase de lanzamiento.
 
 ## Retos
-1. En este archivo, sustituye los campos pendientes por una decisión concreta.
-2. Agrega tres pasos de preparación de la misión, escritos con claridad.
-3. Modifica `panel/estado.md`: reemplaza `PENDIENTE` por `LANZAMIENTO LISTO POR AURORA`.
-4. Cambia el mensaje a la tripulación por uno acorde con el lanzamiento.
-5. Abre un PR desde `feature/aurora-lanzamiento` hacia `develop`.
-6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
+1. Decisión concreta: Se aprueba la secuencia de ignición y verificación de sistemas de propulsión para T-minus 10 minutos.
+2. Tres pasos de preparación de la misión.
+3. Modificar `panel/estado.md` a: `LANZAMIENTO LISTO POR AURORA`.
+4. Mensaje a la tripulación adaptado al lanzamiento.
+5. PR desde `feature/aurora-lanzamiento` hacia `develop`.
+6. Solicitar revisión a Órbita.
 
 ## Plan de lanzamiento
-- **Paso 1:** Verificación de propulsores y calibración de sistemas de navegación primaria.
-- **Paso 2:** Carga completa de combustible sintético y revisión de sellos de presión.
-- **Paso 3:** Autorización del Centro de Control e inicio de la secuencia de despegue.
+- Paso 1: Realizar verificación de sistemas de telemetría, combustible y soporte vital.
+- Paso 2: Sincronizar los relojes de a bordo con la Estación Terrena y validar secuencia de encendido.
+- Paso 3: Confirmar autorización final de despegue con el Centro de Control e iniciar ignición.
 
 ## Pregunta para el otro equipo
-¿Qué podría salir mal durante el lanzamiento si las condiciones meteorológicas en la atmósfera superior cambian drásticamente?
+¿Qué podría salir mal durante el lanzamiento?
