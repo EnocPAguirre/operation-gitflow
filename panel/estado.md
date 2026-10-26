@@ -1,14 +1,29 @@
 # Panel de control de la misión
 
-**Nombre de la misión:** Rescate del repositorio
+Nombre de la misión: Rescate del repositorio
+ESTADO DE LA MISIÓN: LANZAMIENTO LISTO POR AURORA
+Mensaje a la tripulación: Sistemas listos, propulsores al 100%. Preparando secuencia de despegue.
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
-
-**Mensaje a la tripulación:** Esperando instrucciones.
-
-## Decisiones de los equipos
-
-- Aurora: pendiente.
+Decisiones de los equipos
+- Aurora: Sistemas y combustible verificados con éxito.
 - Órbita: pendiente.
 
-> Atención: ambos equipos tendrán que editar la línea `ESTADO DE LA MISIÓN` en sus ramas. ¡No se coordinen para usar el mismo texto! La diferencia creará un caso para resolver cuando se integre el segundo PR.
+- # Panel de control de la misión
+
+Nombre de la misión: Rescate del repositorio
+ESTADO DE LA MISIÓN: ATERRIZAJE LISTO POR ORBITA
+Mensaje a la tripulación: Coordenadas de descenso fijadas y escudos térmicos listos.
+
+Decisiones de los equipos
+- Aurora: pendiente.
+- Órbita: Zona de impacto y retrocohetes preparados.
+
+- # Panel de control de la misión
+
+Nombre de la misión: Rescate del repositorio
+ESTADO DE LA MISIÓN: LANZAMIENTO Y ATERRIZAJE LISTOS
+Mensaje a la tripulación: Secuencia completa coordinada entre Aurora y Órbita. ¡Iniciando misión!
+
+Decisiones de los equipos
+- Aurora: Sistemas y combustible verificados con éxito.
+- Órbita: Zona de impacto y retrocohetes preparados.
