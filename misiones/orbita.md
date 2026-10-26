@@ -1,19 +1,20 @@
-##Equipo Órbita — Tarjeta de misión
+# Misiones Órbita
 
-Responsabilidad: preparar la fase de aterrizaje.
+**Equipo Órbita — Tarjeta de misión**
+**Responsabilidad:** preparar la fase de aterrizaje.
 
 ## Retos
-1. Decisión concreta: Se establece la trayectoria de reentrada atmosférica con un ángulo de ataque de 30 grados y desaceleración controlada.
-2. Tres pasos de aterrizaje.
-3. Modificar `panel/estado.md` a: `ATERRIZAJE LISTO POR ORBITA`.
-4. Mensaje a la tripulación adaptado al aterrizaje.
-5. PR desde `feature/orbita-aterrizaje` hacia `develop`.
-6. Solicitar revisión a Aurora.
+1. En este archivo, sustituye los campos pendientes por una decisión concreta.
+2. Agrega tres pasos de aterrizaje, escritos con claridad.
+3. Modifica `panel/estado.md`: reemplaza `PENDIENTE` por `ATERRIZAJE LISTO POR ORBITA`.
+4. Cambia el mensaje a la tripulación por uno acorde con el aterrizaje.
+5. Abre un PR desde `feature/orbita-aterrizaje` hacia `develop`.
+6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: Orientar la nave para la maniobra de desorbitación y activar retrocohetes.
-- Paso 2: Desplegar escudos térmicos y monitorear la temperatura durante el paso por la atmósfera.
-- Paso 3: Desplegar paracaídas de frenado y coordinar al equipo de rescate en la zona de amerizaje.
+- **Paso 1:** Calcular el ángulo de reentrada atmosférica y desplegar el escudo térmico principal.
+- **Paso 2:** Desplegar los paracaídas de frenado primarios al alcanzar los 10,000 metros de altitud.
+- **Paso 3:** Activar los retrocohetes de touchdown e iniciar protocolo de recuperación en zona marina.
 
 ## Pregunta para el otro equipo
-¿Qué podría salir mal durante el aterrizaje?
+¿Qué podría salir mal durante el aterrizaje si las condiciones meteorológicas en la zona de impacto sobrepasan los límites seguros?
