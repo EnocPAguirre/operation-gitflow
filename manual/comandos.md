@@ -1,17 +1,17 @@
-# Bitácora: comandos que descubrimos
+#  Bitácora: comandos que descubrimos
 
 Completen esto hablando entre sí y explorando la terminal. No es un reporte para entregar.
 
-| Situación | Comando | ¿Qué sucedió? |
-| :--- | :--- | :--- |
-| ¿En qué carpeta estoy? | `pwd` | Muestra la ruta absoluta del directorio actual. |
-| ¿Qué contiene la carpeta? | `ls -la` | Lista todos los archivos y carpetas, incluyendo los ocultos (que empiezan con `.`). |
-| ¿Cómo entrar a otra carpeta? | `cd exploracion` | Cambia el directorio de trabajo actual a la carpeta especificada. |
-| ¿Cómo regresar a la carpeta anterior? | `cd -` | Regresa de inmediato al último directorio donde estuvimos parados. |
-| ¿Qué archivos cambiaron? | `git status` | Muestra el estado del árbol de trabajo (archivos modificados, staged o untracked). |
-| ¿En qué rama estoy? | `git branch -a` | Muestra todas las ramas locales y las remotas (`origin/`). |
-| ¿Cómo traer cambios remotos? | `git fetch origin` | Descarga las referencias del repositorio remoto sin alterar nuestras ramas locales. |
-| ¿Cómo ver el historial? | `git log --oneline --graph --decorate --all` | Muestra una representación gráfica abreviada del historial de commits y ramas. |
+| Situación | Comando | ¿Qué sucedió? | ¿En qué carpeta estoy? |
+| :--- | :--- | :--- | :--- |
+| ¿En qué carpeta estoy? | `pwd` | Muestra la ruta absoluta del directorio actual. | Ruta actual |
+| ¿Qué contiene la carpeta? | `ls -la` | Lista todos los archivos y carpetas, incluidos los ocultos. | Ruta actual |
+| ¿Cómo entrar a otra carpeta? | `cd exploracion` | Cambia la navegación al directorio especificado. | `/exploracion` |
+| ¿Cómo regresar a la carpeta anterior? | `cd -` | Regresa al último directorio donde estuviste ubicado. | Carpeta previa |
+| ¿Qué archivos cambiaron? | `git status` | Muestra el estado del árbol de trabajo y archivos modificados. | Raíz del repo |
+| ¿En qué rama estoy? | `git branch` | Lista las ramas locales y marca con `*` la actual. | Raíz del repo |
+| ¿Cómo traer cambios remotos? | `git fetch origin` | Descarga las referencias del repositorio remoto sin fusionar. | Raíz del repo |
+| ¿Cómo ver el historial? | `git log --oneline --graph` | Muestra el historial de commits simplificado y en forma de árbol. | Raíz del repo |
 
 ### Recordatorio
 `git pull` actualiza tu copia local; un Pull Request es la solicitud de revisión e integración de cambios en GitHub. No son lo mismo.
