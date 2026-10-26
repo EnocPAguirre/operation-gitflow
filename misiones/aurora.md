@@ -1,21 +1,20 @@
-cat << 'EOF' > misiones/aurora.md
-# Equipo Aurora — Tarjeta de misión
+# Misiones Aurora
 
-Responsabilidad: preparar la fase de lanzamiento.
+**Equipo Aurora — Tarjeta de misión**
+**Responsabilidad:** preparar la fase de lanzamiento.
 
 ## Retos
-1. Decisión concreta: Se aprueba la secuencia de ignición y verificación de sistemas de propulsión para T-minus 10 minutos.
-2. Tres pasos de preparación de la misión.
-3. Modificar `panel/estado.md` a: `LANZAMIENTO LISTO POR AURORA`.
-4. Mensaje a la tripulación adaptado al lanzamiento.
-5. PR desde `feature/aurora-lanzamiento` hacia `develop`.
-6. Solicitar revisión a Órbita.
+1. En este archivo, sustituye los campos pendientes por una decisión concreta.
+2. Agrega tres pasos de preparación de la misión, escritos con claridad.
+3. Modifica `panel/estado.md`: reemplaza `PENDIENTE` por `LANZAMIENTO LISTO POR AURORA`.
+4. Cambia el mensaje a la tripulación por uno acorde con el lanzamiento.
+5. Abre un PR desde `feature/aurora-lanzamiento` hacia `develop`.
+6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: Realizar verificación de sistemas de telemetría, combustible y soporte vital.
-- Paso 2: Sincronizar los relojes de a bordo con la Estación Terrena y validar secuencia de encendido.
-- Paso 3: Confirmar autorización final de despegue con el Centro de Control e iniciar ignición.
+- **Paso 1:** Realizar la verificación de propulsores y telemetría de navegación a T-30 minutos.
+- **Paso 2:** Cargar las coordenadas del vector de inserción en la computadora principal.
+- **Paso 3:** Autorizar el encendido de los motores principales y confirmar el despegue exitoso.
 
 ## Pregunta para el otro equipo
-¿Qué podría salir mal durante el lanzamiento?
-EOF
+¿Qué podría salir mal durante el lanzamiento si la telemetría reporta una pérdida de presión en el tanque auxiliar a T-5 minutos?
