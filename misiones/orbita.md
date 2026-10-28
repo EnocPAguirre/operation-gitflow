@@ -11,9 +11,9 @@
 6. Pide una revisión a Aurora; responde y corrige al menos un comentario.
 
 ## Plan de aterrizaje
-- Paso 1: pendiente.
-- Paso 2: pendiente.
-- Paso 3: pendiente.
+- Paso 1: Verificar la trayectoria de descenso y la velocidad de entrada antes de iniciar la maniobra.
+- Paso 2: Desplegar los paracaídas y encender los retrocohetes a la altitud acordada; si los retrocohetes fallan, activar el sistema de respaldo.
+- Paso 3: Confirmar el contacto con la superficie y reportar el estado de la tripulación al centro de control, usando un canal de comunicación alterno si el clima dificulta la señal.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el aterrizaje?
