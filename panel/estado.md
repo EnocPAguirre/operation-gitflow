@@ -2,13 +2,12 @@
 
 **Nombre de la misión:** Rescate del repositorio
 
-**ESTADO DE LA MISIÓN: PENDIENTE**
+**ESTADO DE LA MISIÓN: LANZAMIENTO DE AURORA LISTO**
 
-**Mensaje a la tripulación:** Esperando instrucciones.
+**Mensaje a la tripulación:** Todo listo para despegar. Asegúrense de abrochar sus cinturones, ¡buena suerte!
 
 ## Decisiones de los equipos
 
-- Aurora: pendiente.
+- Aurora: Lanzamiento preparado y sistemas de combustible y oxígeno revisados.
 - Órbita: pendiente.
 
-> Atención: ambos equipos tendrán que editar la línea `ESTADO DE LA MISIÓN` en sus ramas. ¡No se coordinen para usar el mismo texto! La diferencia creará un caso para resolver cuando se integre el segundo PR.
